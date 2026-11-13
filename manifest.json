@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "레시피 연금술사",
+  "short_name": "연금술사",
+  "description": "재료를 조합해 AI 레시피를 만드는 레시피 연금술사",
+  "lang": "ko-KR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
